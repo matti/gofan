@@ -1,6 +1,6 @@
 # go fan
 
-fan out publish to multiple subscriber chans
+fan out chan publish to multiple subscriber chans
 
 - skips publish if subcriber is full
 - lets subscriber to control the channel length
